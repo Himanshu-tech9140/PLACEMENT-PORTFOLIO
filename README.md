@@ -1,5 +1,7 @@
 # Placement Portfolio
 
+🌐 **Live Portfolio:** [himanshu-chaubey.netlify.app](https://himanshu-chaubey.netlify.app/)
+
 A single repository showcasing two full-stack projects built with Java web technologies and the MERN stack.
 
 ## Projects
